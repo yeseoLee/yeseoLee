@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://solved.ac/lys7442">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" style="margin-left : 10px; margin-right : 10px"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" style="margin-left : 0px; margin-right : 40px"/>
   </a>
  
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=RoyalWhite-mini" width = "265" height = "auto" style="margin-left : 10px; margin-right : 10px"/>
+    <img src="http://commitcombo.com/get?user=Devxb&theme=RoyalWhite-mini" style="width = "265"; height = "auto"; margin-left : 40px; margin-right : 0px"/>
   </a>
 </p>
 
