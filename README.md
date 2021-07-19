@@ -21,10 +21,10 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=DeepOcean-mini" width = "265" height = "auto"/>
+    <img src="http://commitcombo.com/get?user=Devxb&theme=Lake-mini" width = "265" height = "auto"/>
   </a>
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=Lake-mini" width = "265" height = "auto"/>
+    <img src="http://commitcombo.com/get?user=Devxb&theme=RoyalWhite-mini" width = "265" height = "auto"/>
   </a>
 </p>
 
