@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/lys7442">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" />
   </a>
+  
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini" width = "265" height = "auto"/>
+    <img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini&rank=disable" width = "265" height = "auto"/>
   </a>
 </p>
 
