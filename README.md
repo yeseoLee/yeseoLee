@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442)](https://solved.ac/lys7442/)
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini "width = "430" height = "auto"/>
+    <img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini "width = "300" height = "auto"/>
   </a>
 </p>
 
-[![commitcombo](http://commitcombo.com/get?user={yeseoLee}&theme={Rainbow-mini})](https://github.com/devxb/CommitCombo)
+<!--[![commitcombo](http://commitcombo.com/get?user={yeseoLee}&theme={Rainbow-mini})](https://github.com/devxb/CommitCombo)-->
