@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={lys7442})](https://solved.ac/{lys7442})
+프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442)](https://solved.ac/lys7442/)
 [![commitcombo](http://commitcombo.com/get?user={yeseoLee}&theme={Rainbow-mini})](https://github.com/devxb/CommitCombo)
