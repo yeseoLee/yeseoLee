@@ -17,16 +17,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://solved.ac/lys7442">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" style="margin-left : 10px; margin-right : 10px"/>
   </a>
  
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=RoyalWhite-mini" width = "265" height = "auto"/>
+    <img src="http://commitcombo.com/get?user=Devxb&theme=RoyalWhite-mini" width = "265" height = "auto" style="margin-left : 10px; margin-right : 10px"/>
   </a>
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442)](https://solved.ac/lys7442/)
 [![commitcombo](http://commitcombo.com/get?user={yeseoLee}&theme={Rainbow-mini})](https://github.com/devxb/CommitCombo)
