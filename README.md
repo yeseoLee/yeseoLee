@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </a>
  
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=RoyalWhite-mini" style="width = "265"; height = "auto"; margin-left : 40px; margin-right : 0px"/>
+    <img src="http://commitcombo.com/get?user=Devxb&theme=RoyalWhite-mini" width = "265" height = "auto" style="margin-left : 40px; margin-right : 0px"/>
   </a>
 </p>
 
