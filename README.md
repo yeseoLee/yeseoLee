@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lys7442)](https://solved.ac/lys7442)
+  <!--
   <a href="https://solved.ac/lys7442">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" />
   </a>
+  -->
 </p>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lys7442)](https://solved.ac/lys7442)
