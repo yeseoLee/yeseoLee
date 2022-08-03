@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  
   <a href="https://solved.ac/lys7442">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=lys7442" />
   </a>
