@@ -19,7 +19,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442)](https://solved.ac/lys7442/)
--->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lys7442)](https://solved.ac/lys7442)
