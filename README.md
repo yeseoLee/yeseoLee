@@ -1,6 +1,6 @@
 ## Work Experience
-- UTPlus Interactive 백엔드 개발자 (2022.09 - 2023.07)
-- BKS&P 웹 풀스택 개발자 (2022.01 - 2022.08)
+- UTPlus Interactive 백엔드 개발자 (2022.09 - 2023.12)
+- BKSNP 웹 풀스택 개발자 (2022.01 - 2022.08)
 - 세종대학교 권순일 교수님 음성 AI 연구실 학부연구생 (2020.10-2020.12)
 
 ## Experience
