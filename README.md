@@ -15,10 +15,14 @@
 - NLP(Natural Language Processing) 
 - Data Science
 
-<!--
-<p align="center">
-  <a href="https://solved.ac/lys7442">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" />
-  </a>
+## Contact
+<p>
+  <a href="mailto:yscoder3893@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yscoder3893@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yeseolee/" target="_blank"><img src="https://img.shields.io/badge/yeseoLee-0A66C2??style=flat-squar&logo=linkedin&logoColor=#0A66C2"/></a>
 </p>
--->
+
+---
+
+|👦 Solved.ac|🥇 Most Used Languages|
+|------|---|
+|[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442)](https://solved.ac/lys7442)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeseoLee)](https://github.com/yeseoLee)|
