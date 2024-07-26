@@ -9,7 +9,7 @@
 - 세종대학교 앱 개발 동아리 아롬 회장 (2020.01 - 2021.06)
 
 ## Education
-- 세종대학교 데이터사이언스학과 재학 (2019.3 - 현재)
+- 세종대학교 데이터사이언스학과 재학 (2019.3 - )
 
 ## Interested in
 - NLP(Natural Language Processing) 
