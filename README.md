@@ -21,8 +21,4 @@
   <a href="https://www.linkedin.com/in/yeseolee/" target="_blank"><img src="https://img.shields.io/badge/yeseoLee-0A66C2??style=flat-squar&logo=linkedin&logoColor=#0A66C2"/></a>
 </p>
 
----
-
-|👦 Solved.ac|🥇 Most Used Languages|
-|------|---|
-|[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442)](https://solved.ac/lys7442)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeseoLee)](https://github.com/yeseoLee)|
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442)](https://solved.ac/lys7442)
