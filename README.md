@@ -15,4 +15,7 @@
   <a href="https://www.linkedin.com/in/yeseolee/" target="_blank"><img src="https://img.shields.io/badge/yeseoLee-0A66C2??style=flat-squar&logo=linkedin&logoColor=#0A66C2"/></a>
 </p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442)](https://solved.ac/lys7442)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://render.gitanimals.org/farms/yeseoLee" width="350" height="" alt="gitanimals"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" alt="solved.ac tier"/>
+</div>
