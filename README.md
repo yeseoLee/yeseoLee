@@ -1,17 +1,24 @@
-## 경력
+## Work Experience
 - UTPlus Interactive 백엔드 개발자 (2022.09 - 2023.12)
 - BKSNP 웹 풀스택 개발자 (2022.01 - 2022.08)
 - 세종대학교 음성 AI 연구실 학부연구생 (2020.10-2020.12)
 
-## 경험
-- 네이버 부스트캠프 AI Tech 7기 (2024.08 - 2025.02 예정)  
+## Experience
+- 네이버 부스트캠프 AI Tech 7기 (2024.08 - 2025.02)  
 - 삼성 주니어 SW 창작대회 대학생 멘토링 (2021.08 - 2021.10)
 - 세종대학교 앱 개발 동아리 아롬 회장 (2020.01 - 2021.06)
 
-## 교육
-- 세종대학교 데이터사이언스학과 재학 (2019.3 - 2026.02 예정)
+## Education
+- 세종대학교 데이터사이언스학과 재학 (2019.3 - )
+- 대전지족고등학교 졸업 (2016.03 - 2019.02)
 
 <!--
+
+## Project
+- [수능형 문제 풀이 모델](https://github.com/yeseoLee/KSAT-LLM) 
+- [Data Centric 관점의 뉴스 주제 분류](https://github.com/yeseoLee/Data-Centric-Topic-Classification)
+- [Open-Domain QA](https://github.com/yeseoLee/Open-Domain-QA)
+- [문장 간 유사도 측정](https://github.com/yeseoLee/Semantic-Textual-Similarity)
 
 ## Contact
 <p>
