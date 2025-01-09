@@ -11,13 +11,14 @@
 ## Education
 - 세종대학교 데이터사이언스학과 재학 (2019.3 - 2026.02 예정)
 
+<!--
+
 ## Contact
 <p>
   <a href="mailto:yscoder3893@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yscoder3893@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yeseolee/" target="_blank"><img src="https://img.shields.io/badge/yeseoLee-0A66C2??style=flat-squar&logo=linkedin&logoColor=#0A66C2"/></a>
 </p>
 
-<!--
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://render.gitanimals.org/farms/yeseoLee" width="350" height="" alt="gitanimals"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" alt="solved.ac tier"/>
