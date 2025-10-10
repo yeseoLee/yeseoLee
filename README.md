@@ -1,18 +1,19 @@
 ## Work Experience
-- WhatsLAB ML 백엔드 개발자 (2025.03 - )
-- UTPlus Interactive 백엔드 개발자 (2022.09 - 2023.12)
-- BKSNP 웹 풀스택 개발자 (2022.01 - 2022.08)
-- 대학교 음성 AI 연구실 학부연구생 (2020.10-2020.12)
+- WhatsLAB ML Backend Engineer (2025.03 - 2025.10)
+- UTPlus Interactive Backend Engineer (2022.09 - 2023.12)
+- BKSNP Web Full Stack Engineer (2022.01 - 2022.08)
+- Undergraduate researchers at the University's Voice AI Laboratory (2020.10 - 2020.12)
 
 ## Experience
-- 딥러닝논문읽기모임 7기 (2025.02 - )
-- 네이버 부스트캠프 AI Tech 7기 NLP 트랙 (2024.08 - 2025.02)  
-- 삼성 주니어 SW 창작대회 대학생 멘토링 (2021.08 - 2021.10)
-- 대학교 앱 개발 동아리 아롬 회장 (2020.01 - 2021.06)
+- '딥러닝논문읽기모임' 7th (2025.02-)
+- Naver Boost Camp AI Tech 7th NLP Track (2024.08 - 2025.02)
+- Samsung Junior SW Creative Competition College Student Mentor (2021.08 - 2021.10)
+- President of ALOM, University App Development Club (2020.01 - 2021.06)
+- Member of ALOM, the University App Development Club (2019.03 - 2019.12)
 
 ## Education
-- 대학교 데이터사이언스학과 재학 (2019.03 - )
-- 고등학교 졸업 (2016.03 - 2019.02)
+- University Department of Data Science (2019.03 - 2026.02)
+- High school graduation (2016.03 - 2019.02)
 
 <!--
 ## Project
