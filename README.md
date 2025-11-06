@@ -9,7 +9,7 @@
 - Naver Boost Camp AI Tech 7th NLP Track (2024.08 - 2025.02)
 - 2021 Samsung Junior SW Creative Competition College Student Mentor (2021.08 - 2021.10)
 - President of [ALOM](https://www.instagram.com/alomsejong), University App Development Club (2020.01 - 2021.06)
-- Member of [ALOM](https://www.instagram.com/alomsejong), the University App Development Club (2019.03 - 2019.12)
+- Member of [ALOM](https://www.instagram.com/alomsejong), University App Development Club (2019.03 - 2019.12)
 
 ## Education
 - University Department of Data Science (2019.03 - 2026.02)
