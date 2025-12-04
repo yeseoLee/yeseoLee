@@ -5,7 +5,7 @@
 - Undergraduate researchers at the University's Voice AI Laboratory (2020.10 - 2020.12)
 
 ## Experience
-- [딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84) 7th (2025.02-2026.02)
+- [딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84) 7th NLP Team (2025.02-2026.02)
 - Naver Boost Camp AI Tech 7th NLP Track (2024.08 - 2025.02)
 - 2021 Samsung Junior SW Creative Competition College Student Mentor (2021.08 - 2021.10)
 - President of [ALOM](https://www.instagram.com/alomsejong), University App Development Club (2020.01 - 2021.06)
