@@ -1,20 +1,35 @@
 ## Work Experience
-- WhatsLAB ML Backend Engineer (2025.03 - 2025.10)
-- UTPlus Interactive Backend Engineer (2022.09 - 2023.12)
-- BKSNP Web Full Stack Engineer (2022.01 - 2022.08)
-- Undergraduate researchers at the University's Voice AI Laboratory (2020.10 - 2020.12)
+- **WhatsLAB**  
+  ML Backend Engineer (Mar. 2025 – Oct. 2025)
+  
+- **UTPlus Interactive**  
+  Backend Engineer (Sep. 2022 – Dec. 2023)
+  
+- **BKSNP**  
+  Full Stack Engineer (Jan. 2022 – Aug. 2022)
+  
+- **Interaction Technology Lab, Sejong University**  
+  Undergraduate Researcher (Oct. 2020 – Dec. 2020)
 
-## Experience
-- [딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84) 7th NLP Team (2025.02-2026.02)
-- Naver Boost Camp AI Tech 7th NLP Track (2024.08 - 2025.02)
-- 2021 Samsung Junior SW Creative Competition College Student Mentor (2021.08 - 2021.10)
-- President of [ALOM](https://www.instagram.com/alomsejong), University App Development Club (2020.01 - 2021.06)
-- Member of [ALOM](https://www.instagram.com/alomsejong), University App Development Club (2019.03 - 2019.12)
+## Activities & Training
+- **[딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84)**  
+  NLP Team Member, 7th Batch (Feb. 2025 – Present)
+  
+- **[Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)**  
+  NLP Track, 7th Batch (Aug. 2024 – Feb. 2025)
+  
+- **Samsung Junior SW Creative Competition 2021**  
+  College Student Mentor (Aug. 2021 – Oct. 2021)
+  
+- **ALOM** (University App Development Club)  
+  President (Jan. 2020 – Jun. 2021) | Member (Mar. 2019 – Dec. 2019)
 
 ## Education
-- University Department of Data Science (2019.03 - 2026.02)
-- High school graduation (2016.03 - 2019.02)
-
+- **Sejong University**, Seoul, Korea  
+  B.S. in Data Science (Mar. 2019 – Feb. 2026, Expected)
+  
+- **Jijok High School**, Daejeon, Korea  
+  High School Diploma (Mar. 2016 – Feb. 2019)
 
 <!--
 ## Project
