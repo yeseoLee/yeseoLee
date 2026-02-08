@@ -13,7 +13,7 @@
 
 ## Activities & Training
 - **[딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84)**  
-  NLP Team Member, 7th Batch (Feb. 2025 – Present)
+  NLP Team Member, 7th Batch (Feb. 2025 – Feb. 2026)
   
 - **[Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)**  
   NLP Track, 7th Batch (Aug. 2024 – Feb. 2025)
