@@ -8,7 +8,7 @@
 - **BKSNP**  
   Full Stack Engineer (Jan. 2022 – Aug. 2022)
   
-- **Interaction Technology Lab, Sejong University**  
+- **Interaction Technology Lab, University**  
   Undergraduate Researcher (Oct. 2020 – Dec. 2020)
 
 ## Activities & Training
@@ -25,8 +25,8 @@
   President (Jan. 2020 – Jun. 2021) | Member (Mar. 2019 – Dec. 2019)
 
 ## Education
-- **Sejong University**, Seoul, Korea  
-  B.S. in Data Science (Mar. 2019 – Feb. 2026, Expected)
+- **University**, Seoul, Korea  
+  B.S. in Data Science (Mar. 2019 – Feb. 2026)
   
 - **Jijok High School**, Daejeon, Korea  
   High School Diploma (Mar. 2016 – Feb. 2019)
