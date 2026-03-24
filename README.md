@@ -34,10 +34,10 @@
   President (Jan. 2020 – Jun. 2021) | Member (Mar. 2019 – Dec. 2019)
 
 ## Education
-- **University**, Seoul, Korea  
+- **OO University**, Seoul, Korea  
   B.S. in Data Science (Mar. 2019 – Feb. 2026)
   
-- **High School**, Daejeon, Korea  
+- **OO High School**, Daejeon, Korea  
   High School Diploma (Mar. 2016 – Feb. 2019)
 
 ## Contact
