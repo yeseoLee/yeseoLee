@@ -30,7 +30,7 @@
 - **[Samsung Junior SW Creative Competition 2021](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2021-%EC%82%BC%EC%84%B1-%EC%A3%BC%EB%8B%88%EC%96%B4-sw-%EC%B0%BD%EC%9E%91%EB%8C%80%ED%9A%8C-%EC%8B%9C%EC%83%81%EC%8B%9D-%EA%B0%9C%EC%B5%9C)**  
   College Student Mentor (Aug. 2021 – Oct. 2021)
   
-- **[ALOM](https://www.instagram.com/alomsejong/)** (University App Development Club)  
+- **[ALOM (University App Dev Club)](https://www.instagram.com/alomsejong/)**  
   President (Jan. 2020 – Jun. 2021) | Member (Mar. 2019 – Dec. 2019)
 
 ## Education
