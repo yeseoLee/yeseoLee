@@ -1,7 +1,8 @@
 ## Work Experience
-- **FastCampus**
-  - Practical Coach (Short-term Contract), DX Corporate Training Team (Mar 2026 – Present)
-  - Supported enterprise training programs on LLM agents using LangChain and LangGraph
+- **Day1 Company**
+  - Technical Training Assistant (Contract), DX Education Team (Mar 2026 – Present)
+  - Facilitated hands-on Python labs for 100+ corporate employees, specializing in LLM agent development using LangChain and LangGraph.
+  - Provided real-time technical Q&A and debugging support to ensure a seamless learning experience during enterprise-scale training programs.
 
 - **WhatsLAB**
   - ML Backend Engineer (Mar 2025 – Oct 2025)
@@ -16,9 +17,11 @@
   - Web Full Stack Engineer (Jan 2022 – Aug 2022)
   - Maintained and developed a web-based EMR system for regional public medical centers
 
+<!--
 - **Interaction Technology Lab**
   - Undergraduate Researcher (Oct 2020 – Dec 2020)
   - Developed an Android application for speech data collection in research experiments
+-->
 
 ## Activities & Training
 - **[딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84)**  
