@@ -1,26 +1,27 @@
 ## Work Experience
-- **Day1 Company**
-  - Technical Training Assistant (Contract), DX Education Team (Mar 2026 – Present)
-  - Facilitated hands-on Python labs for 100+ corporate employees, specializing in LLM agent development using LangChain and LangGraph.
-  - Provided real-time technical Q&A and debugging support to ensure a seamless learning experience during enterprise-scale training programs.
 
-- **WhatsLAB**
-  - ML Backend Engineer (Mar 2025 – Oct 2025)
-  - Developed a medical data visualization platform and migrated infrastructure to AWS
-  - Built patient outcome prediction models using clinical and device log data
+*Technical Training Assistant (Contract), DX Education Team*  
+**Day1 Company** | Mar 2026 – Present  
+- Assisted with hands-on Python labs for 100+ corporate learners on LLM agent development with LangChain/LangGraph
+- Delivered real-time technical Q&A and debugging support across 10+ enterprise training sessions
 
-- **UTPlus Interactive**
-  - Platform Backend Engineer (Sep 2022 – Dec 2023)
-  - Maintained and optimized backend services for a metaverse game platform and internal operations systems
+*ML Backend Engineer*  
+**WhatsLAB** | Mar 2025 – Oct 2025  
+- Developed a medical data visualization platform and migrated infrastructure to AWS
+- Built patient outcome prediction models using clinical and device log data
 
-- **BKSNP**
-  - Web Full Stack Engineer (Jan 2022 – Aug 2022)
-  - Maintained and developed a web-based EMR system for regional public medical centers
+*Platform Backend Engineer*  
+**UTPlus Interactive** | Sep 2022 – Dec 2023  
+- Maintained and optimized backend services for a metaverse game platform and internal operations systems
+
+*Web Full Stack Engineer*  
+**BKSNP** | Jan 2022 – Aug 2022  
+- Maintained and developed a web-based EMR system for regional public medical centers
 
 <!--
-- **Interaction Technology Lab**
-  - Undergraduate Researcher (Oct 2020 – Dec 2020)
-  - Developed an Android application for speech data collection in research experiments
+*Undergraduate Researcher*  
+**Interaction Technology Lab** | Oct 2020 – Dec 2020  
+- Developed an Android application for speech data collection in research experiments
 -->
 
 ## Activities & Training
