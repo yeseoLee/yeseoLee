@@ -35,7 +35,7 @@
   College Student Mentor (Aug. 2021 – Oct. 2021)
 
 - **[ALOM (University App Dev Club)](https://www.instagram.com/alomsejong/)**  
-  President (Jan. 2020 – Jun. 2021) | Member (Mar. 2019 – Dec. 2019)
+  President (Feb. 2020 – Feb. 2022) | Member (Mar. 2019 – Jan. 2020)
 
 ## Education
 - **OO University**, Seoul, Korea  
