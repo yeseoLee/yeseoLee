@@ -8,7 +8,7 @@
 *ML Backend Engineer*  
 **WhatsLAB** | Mar 2025 – Oct 2025  
 - Developed a medical data visualization platform and migrated infrastructure to AWS
-- Built patient outcome prediction models using clinical and device log data
+- Built clinical prediction models using DTx log data
 
 *Platform Backend Engineer*  
 **UTPlus Interactive** | Sep 2022 – Dec 2023  
