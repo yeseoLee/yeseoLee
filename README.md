@@ -3,7 +3,6 @@
 *Technical Training Assistant (Contract), DX Education Team*  
 **Day1 Company** | Mar 2026 – Present  
 - Assisted with hands-on Python labs for 100+ corporate learners on LLM agent development with LangChain/LangGraph
-- Delivered real-time technical Q&A and debugging support across 10+ enterprise training sessions
 
 *ML Backend Engineer*  
 **WhatsLAB** | Mar 2025 – Oct 2025  
