@@ -24,17 +24,22 @@
 - Developed an Android application for speech data collection in research experiments
 -->
 
-## Activities & Training
+## Experience
 - **[딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84)**  
-  NLP Team Member, 7th Batch (Feb. 2025 – Feb. 2026)
+  NLP Team Member (Feb. 2025 – Feb. 2026)
   
 - **[Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)**  
-  NLP Track, 7th Batch (Aug. 2024 – Feb. 2025)
-  
+  NLP Track, 7th Cohort (Aug. 2024 – Feb. 2025)
+
+<!--
 - **[Samsung Junior SW Cup 2021](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2021-%EC%82%BC%EC%84%B1-%EC%A3%BC%EB%8B%88%EC%96%B4-sw-%EC%B0%BD%EC%9E%91%EB%8C%80%ED%9A%8C-%EC%8B%9C%EC%83%81%EC%8B%9D-%EA%B0%9C%EC%B5%9C)**  
   College Student Mentor (Aug. 2021 – Oct. 2021)
+-->
 
-- **[ALOM (University App Dev Club)](https://www.instagram.com/alomsejong/)**  
+- **Interaction Technology Lab, Sejong University**  
+  Undergraduate Research Assistant (Oct. 2020 – Dec. 2020) 
+
+- **[ALOM (University App Development Club)](https://www.instagram.com/alomsejong/)**  
   President (Feb. 2020 – Feb. 2022) | Member (Mar. 2019 – Jan. 2020)
 
 ## Education
