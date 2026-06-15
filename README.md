@@ -1,6 +1,6 @@
 ## Work Experience
 
-*Technical Training Assistant (Contract), DX Education Team*  
+*Technical Training Assistant (Contract)*  
 **Day1 Company** | Mar 2026 – Present  
 - Assisted with hands-on Python labs for 100+ corporate learners on LLM agent development with LangChain/LangGraph
 
