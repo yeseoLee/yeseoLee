@@ -15,7 +15,7 @@
 
 *Web Full Stack Engineer*  
 **BKSNP** | Jan 2022 – Aug 2022  
-- Maintained and developed a web-based EMR system for regional public medical centers
+- Maintained and developed a EMR system for regional public medical centers
 
 <!--
 *Undergraduate Researcher*  
