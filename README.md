@@ -1,8 +1,8 @@
 ## Work Experience
 
-*Technical Training Assistant (Contract)*  
-**Day1 Company** | Mar 2026 – Present  
-- Assisted with hands-on Python labs for 100+ corporate learners on LLM agent development with LangChain/LangGraph
+*Training Assistant*  
+**Day1 Company** | Mar 2026 – Jun 2026 
+- Assisted hands-on training sessions on LLM agent development for Samsung Electronics engineers
 
 *ML Backend Engineer*  
 **WhatsLAB** | Mar 2025 – Oct 2025  
@@ -42,8 +42,8 @@
   President (Feb. 2020 – Feb. 2022) | Member (Mar. 2019 – Jan. 2020)
 
 ## Education
-- **OO University**, Seoul, Korea  
-  B.S. in Data Science (Mar. 2019 – Feb. 2026)
+- **Sejong University**, Seoul, Korea  
+  B.S. in Data Science, 2026
 
 ## Contact
 <p>
