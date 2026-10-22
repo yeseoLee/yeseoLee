@@ -1,6 +1,6 @@
 ## Work Experience
 
-| 기간 | 회사 | 직무 | 주요 업무 |
+| Period | Company | Role | Description |
 |---|---|---|---|
 | 2026.03 – 2026.06 | Day1 Company | 실습 조교 | 삼성전자DX 임직원 대상 멀티모달 에이전트 개발 실습 교육 보조 |
 | 2025.03 – 2025.10 | WhatsLAB | ML 백엔드 엔지니어 | 의료 데이터 시각화 플랫폼 개발 및 AWS 인프라 마이그레이션<br> DTx 로그 데이터 기반 임상 예측 모델 구축 |
@@ -9,7 +9,7 @@
 
 ## Experience
 
-| 기간 | 단체 | 역할 |
+| Period | Organization | Role |
 |---|---|---|
 | 2026.07 – 진행중 | SSAFY 16기 | Data 트랙 교육생 |
 | 2025.02 – 2026.02 | [딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84) | NLP팀 부원 |
