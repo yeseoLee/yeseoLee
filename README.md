@@ -1,49 +1,32 @@
-## Work Experience
+## 경력
 
-*Training Assistant*  
-**Day1 Company** | Mar 2026 – Jun 2026 
-- Assisted hands-on training sessions on LLM agent development for Samsung Electronics engineers
+| 기간 | 회사 | 직무 | 주요 업무 |
+|---|---|---|---|
+| 2026.03 – 2026.06 | **Day1 Company** | 실습 조교 | 삼성전자DX 임직원 대상 멀티모달 에이전트 개발 실습 교육 보조 |
+| 2025.03 – 2025.10 | **WhatsLAB** | ML 백엔드 엔지니어 | 의료 데이터 시각화 플랫폼 개발 및 AWS 인프라 마이그레이션<br> DTx 로그 데이터 기반 임상 예측 모델 구축 |
+| 2022.09 – 2023.12 | **UTPlus Interactive** | 플랫폼 백엔드 엔지니어 | 메타버스 게임 플랫폼 개발 및 백오피스 고도화 |
+| 2022.01 – 2022.08 | **BKSNP** | 웹 풀스택 엔지니어 | 지역 공공의료원 EMR 시스템 유지보수 및 개발 |
 
-*ML Backend Engineer*  
-**WhatsLAB** | Mar 2025 – Oct 2025  
-- Developed a medical data visualization platform and migrated infrastructure to AWS
-- Built clinical prediction models using DTx log data
+## 활동
 
-*Platform Backend Engineer*  
-**UTPlus Interactive** | Sep 2022 – Dec 2023  
-- Maintained and optimized backend services for a metaverse game platform and internal operations systems
-
-*Web Full Stack Engineer*  
-**BKSNP** | Jan 2022 – Aug 2022  
-- Maintained and developed a EMR system for regional public medical centers
-
-<!--
-*Undergraduate Researcher*  
-**Interaction Technology Lab** | Oct 2020 – Dec 2020  
-- Developed an Android application for speech data collection in research experiments
--->
-
-## Experience
-- **[딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84)**  
-  NLP Team Member (Feb. 2025 – Feb. 2026)
-  
-- **[Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)**  
-  NLP Track, 7th Cohort (Aug. 2024 – Feb. 2025)
+| 기간 | 단체 | 역할 |
+|---|---|---|
+| 2026.07 – 진행중 | SSAFY 16기 | Data 트랙 교육생 |
+| 2025.02 – 2026.02 | [딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84) | NLP팀 부원 |
+| 2024.08 – 2025.02 | 네이버 부스트캠프 AI Tech 7기 | NLP 트랙 교육생 |
+| 2021.08 – 2021.10 | 삼성 주니어 SW 창작대회 2021 | 대학생 멘토 |
+| 2020.10 – 2020.12 | 세종대학교 Interaction Technology Lab | 학부연구생 |
+| 2020.02 – 2022.02 | [ALOM (대학 앱 개발 동아리)](https://www.instagram.com/alomsejong/) | 회장 |
+| 2019.03 – 2020.01 | [ALOM (대학 앱 개발 동아리)](https://www.instagram.com/alomsejong/) | 부원 |
 
 <!--
-- **[Samsung Junior SW Cup 2021](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2021-%EC%82%BC%EC%84%B1-%EC%A3%BC%EB%8B%88%EC%96%B4-sw-%EC%B0%BD%EC%9E%91%EB%8C%80%ED%9A%8C-%EC%8B%9C%EC%83%81%EC%8B%9D-%EA%B0%9C%EC%B5%9C)**  
-  College Student Mentor (Aug. 2021 – Oct. 2021)
+## 학력
+
+| 기간 | 학교 | 구분 |
+|---|---|---|
+| 2019.03 - 2026.02 | **세종대학교** (서울) | 데이터사이언스 학사 |
+| 2016.03 - 2019.02 | **지족고등학교** (대전) | 졸업 |
 -->
-
-- **Interaction Technology Lab, Sejong University**  
-  Undergraduate Research Assistant (Oct. 2020 – Dec. 2020) 
-
-- **[ALOM (University App Development Club)](https://www.instagram.com/alomsejong/)**  
-  President (Feb. 2020 – Feb. 2022) | Member (Mar. 2019 – Jan. 2020)
-
-## Education
-- **Sejong University**, Seoul, Korea  
-  B.S. in Data Science, 2026
 
 ## Contact
 <p>
