@@ -16,8 +16,8 @@
 | 2024.08 – 2025.02 | 네이버 부스트캠프 AI Tech 7기 | NLP 트랙 교육생 |
 | 2021.08 – 2021.10 | 삼성 주니어 SW 창작대회 2021 | 대학생 멘토 |
 | 2020.10 – 2020.12 | 세종대학교 Interaction Technology Lab | 학부연구생 |
-| 2020.02 – 2022.02 | [ALOM (대학 앱 개발 동아리)](https://www.instagram.com/alomsejong/) | 회장 |
-| 2019.03 – 2020.01 | [ALOM (대학 앱 개발 동아리)](https://www.instagram.com/alomsejong/) | 부원 |
+| 2020.02 – 2022.02 | [앱 개발 동아리 ALOM](https://www.instagram.com/alomsejong/) | 회장 |
+| 2019.03 – 2020.01 | [앱 개발 동아리 ALOM](https://www.instagram.com/alomsejong/) | 부원 |
 
 <!--
 ## 학력
