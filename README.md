@@ -11,7 +11,7 @@
 
 | Period | Organization | Role |
 |---|---|---|
-| 2026.07 – 진행중 | SSAFY 16기 | Data 트랙 교육생 |
+| 2026.07 – 진행중 | 삼성청년SW·AI아카데미(SSAFY) 16기 | Data 트랙 교육생 |
 | 2025.02 – 2026.02 | [딥러닝논문읽기모임](https://www.youtube.com/@%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84) | NLP팀 부원 |
 | 2024.08 – 2025.02 | 네이버 부스트캠프 AI Tech 7기 | NLP 트랙 교육생 |
 | 2021.08 – 2021.10 | 삼성 주니어 SW 창작대회 2021 | 대학생 멘토 |
